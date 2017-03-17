@@ -38,10 +38,10 @@ animationView?.play(completion: { (finished) in
 After the Flash dynasty collapse, Animation in the web/mobile is in the dark age because you all have to do animation by pure coding instead and it's sooo hard and take a lot of time so our animation's world is going down. but when there is a dark it will always a light. Make Animation great again and will be greater than the old times. 
 
 ## Installation
-Install Adobe After Effect
-Install bodymovin https://github.com/bodymovin/bodymovin
-Export bodymovin into Json files and import into xcode 
-Ready to use!
+- Install Adobe After Effect
+- Install bodymovin https://github.com/bodymovin/bodymovin
+- Export bodymovin into Json files and import into xcode 
+- Ready to use!
 
 ## Limitation
 For now you can do only simply animation not with the effect layer in After Effect yet so here's the thing
