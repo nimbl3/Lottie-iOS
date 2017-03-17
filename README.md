@@ -1,5 +1,5 @@
 # Lottie-iOS
-Custom animation by Lottie from AirBNB. You could add animation in mobile devices both iOS/Android without explicit coding only 3 line of code and you've done!! What You need to prepare is
+Custom animation by Lottie from AirBnB. You could add animation in mobile devices both in iOS/Android without explicit coding only 3 line of code and you've done!! What You need to prepare is
 
 ## Install Lottie
 **CocoaPods**
