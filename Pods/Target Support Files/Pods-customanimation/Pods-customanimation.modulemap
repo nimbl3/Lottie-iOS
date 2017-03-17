@@ -1,0 +1,6 @@
+framework module Pods_customanimation {
+  umbrella header "Pods-customanimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
